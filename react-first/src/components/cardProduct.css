@@ -1,0 +1,22 @@
+.card{
+    background-color: #F0FFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    margin: 1rem;
+}
+
+.cardName{
+    margin: 1rem;
+}
+
+.cardPhoto{
+    width: 70%;
+    height: 70%;
+}
+
+.cardButton{
+    margin: 1rem;
+}

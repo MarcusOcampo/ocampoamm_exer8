@@ -1,0 +1,25 @@
+.navi {
+    display: flex;
+    margin: 0;
+    padding: 2rem;
+    font-size: 30px;
+}
+
+.navButtons {
+    display: flex;
+    margin: 0;
+    padding: 2rem;
+}
+
+.navButtons > li {
+    list-style-type: none;
+    padding: 1rem;
+}
+
+.parentNav {
+    display: flex;
+    background-color: #FFE4C4;
+    justify-content: space-between;
+}
+
+
