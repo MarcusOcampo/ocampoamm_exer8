@@ -6,6 +6,8 @@ Code Description: Created a lazado website where users can choose from products 
 
 My notes:
 1. open ubuntu terminal
-2. cd MarcusOcampo/ocampoamm_exer8/react-first
+2. cd MarcusOcampo/ocampoamm_exer8
+3. code . (to open in vscode)
+2. cd react-first
 3. npm start
 
